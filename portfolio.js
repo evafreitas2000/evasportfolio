@@ -7,8 +7,4 @@ setInterval(() => {
 var x = document.getElementById("EvaFPortfolio.pt").name;
 
 
-$(document).ready(function(){   
-$("#myVideo").bind('ended', function(){
-location.href="portfolio2.html";    
-}); 
-});
+
