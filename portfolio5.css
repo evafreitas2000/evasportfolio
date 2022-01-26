@@ -1,0 +1,114 @@
+#container {
+  position: relative;
+  text-align: center;
+}
+
+.image img{
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.logo img {
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  width: 160px;
+  transform: translate(-50%, -50%);
+}
+
+.name h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: center;
+  position: absolute;
+  top: 19%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.designer h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25pt;
+  text-align: center;
+  vertical-align: center;
+  position: absolute;
+  top: 22%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #D5890A;
+}
+
+.quarto h3{
+  font-family: 'Roboto', sans-serif;
+  font-size: 40pt;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.fotos h4{
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 25pt;
+  text-align: center;
+  vertical-align: center;
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.foto1 img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 850px;
+  transform: translate(-50%, -50%);
+  border-radius: 80px;
+}
+
+.foto2 img{
+  position: absolute;
+  top: 77%;
+  left: 50%;
+  width: 850px;
+  transform: translate(-50%, -50%);
+  border-radius: 80px;
+}
+
+.foto3 img{
+    position: absolute;
+    top: 104%;
+    left: 50%;
+    width: 850px;
+    transform: translate(-50%, -50%);
+    border-radius: 80px;
+}
+
+.foto2 img{
+  position: absolute;
+  top: 77%;
+  left: 50%;
+  width: 850px;
+  transform: translate(-50%, -50%);
+  border-radius: 80px;
+}
+
+
+.seta{
+  top: 90%;
+  text-align: center;
+  position: fixed;
+  left: 44%;
+}
